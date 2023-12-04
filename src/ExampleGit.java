@@ -3,6 +3,5 @@ public class ExampleGit {
 
         //git flow
         System.out.println("New feature Development...");
-        System.out.println("Realise new feature...");
     }
 }
